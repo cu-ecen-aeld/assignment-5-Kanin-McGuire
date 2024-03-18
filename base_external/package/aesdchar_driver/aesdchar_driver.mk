@@ -6,7 +6,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESDCHAR_DRIVER_VERSION = '407ce9b1f7341923b831292947f1de8b70e9ed83'
+AESDCHAR_DRIVER_VERSION = '2b92e872b3d08ac71700b462a4d9fe0b9fc933f0'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
