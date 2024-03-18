@@ -3,10 +3,10 @@
 case "$1" in
     start)
         echo "Load module and scull"
+        /usr/bin/aesdchar_load
         /usr/bin/module_load faulty
         /usr/bin/scull_load
         modprobe hello
-        /usr/bin/aesdchar_load
         ;;
     stop)
         echo "Unload module and scull"
